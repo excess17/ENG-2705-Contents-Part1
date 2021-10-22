@@ -1,0 +1,77 @@
+id: 670
+typeCode: AAI
+description: Content AAI 30 description
+mainGroup: free
+status: PUBLIC
+listModel: '48'
+defaultModel: '49'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Cum est reiciendis et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Cum est reiciendis et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Cum est reiciendis et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

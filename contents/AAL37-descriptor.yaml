@@ -1,0 +1,107 @@
+id: 757
+typeCode: AAL
+description: Content AAL 37 description
+mainGroup: free
+status: PUBLIC
+listModel: '54'
+defaultModel: '55'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Velit cupiditate voluptas et omnis eveniet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist01
+    value: null
+    values: {}
+    elements:
+      - code: monolist01
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist01
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite08
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite08-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite08-boolean
+        value: null
+        values:
+          en: composite08 boolean field
+          it: composite08 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Velit cupiditate voluptas et omnis eveniet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Velit cupiditate voluptas et omnis eveniet.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,78 @@
+id: 807
+typeCode: ABA
+description: Content ABA 7 description
+mainGroup: free
+status: PUBLIC
+listModel: '60'
+defaultModel: '61'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Nihil nesciunt sunt non praesentium dolore dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Nihil nesciunt sunt non praesentium dolore dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>Nihil nesciunt sunt non praesentium dolore dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Nihil nesciunt sunt non praesentium dolore dolores.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

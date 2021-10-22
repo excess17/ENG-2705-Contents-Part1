@@ -1,0 +1,100 @@
+id: 2319
+typeCode: ACI
+description: Content ACI 79 description
+mainGroup: free
+status: PUBLIC
+listModel: '168'
+defaultModel: '169'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Ipsum nesciunt ipsa impedit inventore temporibus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ipsum nesciunt ipsa impedit inventore temporibus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Ipsum nesciunt ipsa impedit inventore temporibus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ipsum nesciunt ipsa impedit inventore temporibus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
